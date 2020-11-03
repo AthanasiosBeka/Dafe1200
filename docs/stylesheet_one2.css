@@ -1,0 +1,165 @@
+body{
+font-family: sans-serif;
+font-size: 15;
+margin: 0;
+background-color: #FFE9D5;
+}
+
+/*.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+@media screen and (max-width: 800px) {
+  .leftcolumn, .rightcolumn {
+    width: 100%;
+    padding: 0;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .nav_links a {
+    float: none;
+    width: 100%;
+  }
+}
+
+.leftcolumn {
+  margin-left: 50px;
+  float: left;
+  width: 65%;
+  display: inline-block;
+}
+
+.rightcolumn {
+  float: right;
+  width: 25%;
+  border-left: 4px dashed #3D2718
+  padding-left: 20px;
+  display: inline-block;
+
+}*/
+
+.wrapper {
+
+  overflow:hidden;
+}
+
+.wrapper div {
+   min-height: 200px;
+
+}
+#one {
+  float:left;
+  margin-left: 20px;
+  margin-right:20px;
+  width:1000px;
+  height:auto;
+}
+#two {
+  overflow:hidden;
+  margin:10px;
+  min-height:170px;
+  width: auto;
+  margin-right: 0px;
+}
+
+
+@media screen and (max-width: 400px) {
+   #one {
+    float: none;
+    margin-right:0;
+    width:auto;
+    border:0;
+    border-bottom:2px solid #000;
+  }
+}
+
+.img {
+  border: 3px solid #3D2718;
+  width: 100%;
+}
+
+
+p{
+  margin-left: 20px;
+  margin-right: 20px;
+  padding-top: 20px;
+  text-align: left;
+  line-height: 25px;
+  font-weight: 600px;
+}
+
+h1{
+  text-align: center;
+
+}
+
+.logo{
+  padding-left: 20px;
+  float: left;
+}
+
+/* Nav bar*/
+nav{
+  float: right;
+}
+
+header {
+  padding-bottom: 10px;
+  background-color: #A6816B;
+  font-weight: normal;
+  border-bottom: 2px solid #3D2718;
+}
+
+h2{
+  text-align: left;
+  margin-left: 20px
+}
+
+nav ul{
+  margin-right: 100px;
+  padding: 0;
+  list-style: none;
+}
+
+nav li{
+  display: inline-block;
+  margin-left: 70px;
+  padding-top: 22px;
+}
+
+nav a{
+  color:#3D2718;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+nav a:hover{
+  font-weight: bold;
+}
+/*Nav bar end*/
+
+.footer {
+  background-color: #FFE9D5;
+  text-align: center;
+  padding: 10px;
+  border-top: 2px dashed #3D2718;
+}
+
+/*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background-color: #BE9880;
+}*/
+
+/*li, a, button{
+  font-family: sans-serif;
+  font-weight: normal;
+  font-size: 20px;
+  color: #603B11;
+  margin-left: 50px;
+  margin-right: 50px;
+}*/
