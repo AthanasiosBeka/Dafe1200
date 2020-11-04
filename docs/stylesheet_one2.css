@@ -39,17 +39,12 @@ background-color: #FFE9D5;
   }
 }
 
-@media screen and (max-width:400px) {
-  #left {
+@media screen and (max-width:300px) {
+  #left, #right {
     width:100%; /* The width is 100%, when the viewport is 800px or smaller */
   }
 }
 
-@media screen and (max-width:400px) {
-  #right {
-    width:100%; /* The width is 100%, when the viewport is 800px or smaller */
-  }
-}
 
 .img {
   border: 3px solid #3D2718;
