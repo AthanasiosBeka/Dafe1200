@@ -42,7 +42,6 @@ background-color: #FFE9D5;
 }*/
 
 .wrapper {
-
   overflow:hidden;
 }
 
@@ -143,8 +142,6 @@ nav a:hover{
 
 .footer {
   background-color: #FFE9D5;
-  text-align: center;
-  padding: 10px;
   border-top: 2px dashed #3D2718;
 }
 
