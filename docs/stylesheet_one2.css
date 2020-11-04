@@ -22,7 +22,7 @@ background-color: #FFE9D5;
 }
 #right {
   overflow:hidden;
-  margin:10px;
+  margin:0px;
   min-height:170px;
   width: auto;
   margin-right: 0px;
@@ -54,7 +54,7 @@ background-color: #FFE9D5;
 
 
 p{
-  margin-left: 20px;
+  margin-left: 0px;
   margin-right: 20px;
   padding-top: 20px;
   text-align: left;
