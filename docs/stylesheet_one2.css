@@ -26,6 +26,7 @@ background-color: #FFE9D5;
   min-height:170px;
   width: auto;
   margin-right: 0px;
+  column-span: all;
 }
 
 
