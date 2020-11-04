@@ -41,7 +41,7 @@ background-color: #FFE9D5;
 
 @media screen and (max-width:800px) {
   #left, #right {
-    width:100%; /* The width is 100%, when the viewport is 800px or smaller */
+    width:50%; /* The width is 100%, when the viewport is 800px or smaller */
   }
 }
 
