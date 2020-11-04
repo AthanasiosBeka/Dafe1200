@@ -40,8 +40,14 @@ background-color: #FFE9D5;
 }
 
 @media screen and (max-width:400px) {
-  #left, #right {
-    width:50%; /* The width is 100%, when the viewport is 800px or smaller */
+  #left {
+    width:100%; /* The width is 100%, when the viewport is 800px or smaller */
+  }
+}
+
+@media screen and (max-width:400px) {
+  #right {
+    width:100%; /* The width is 100%, when the viewport is 800px or smaller */
   }
 }
 
