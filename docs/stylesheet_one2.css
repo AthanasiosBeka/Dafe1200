@@ -25,7 +25,7 @@ background-color: #FFE9D5;
 @media screen and (max-width: 700px) {
   .column {
     display: inline-block;
-    width: 50%;
+    width: 30%;
     margin-left: 0px;
   }
 }
