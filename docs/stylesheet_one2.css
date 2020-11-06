@@ -4,7 +4,7 @@ margin: 0;
 background-color: #FFE9D5;
 }
 
-
+/*columns*/
 .row{
   width: 100%;
   height: 600px;
@@ -38,12 +38,9 @@ background-color: #FFE9D5;
     display: block;
   }
 }
+/*columns*/
 
-.shop {
-  border: 3px solid #3D2718;
-}
-
-
+/*text*/
 p{
   margin-left: 0px;
   margin-right: 20px;
@@ -61,6 +58,15 @@ h2{
   text-align: left;
   margin-left: 20px
 }
+/*text*/
+
+/*pictures*/
+.shop {
+  width: 100%;
+  height: auto;
+  border: 3px solid #3D2718;
+}
+/*pictures*/
 
 /*header*/
 .header {
@@ -110,7 +116,9 @@ h2{
 }
 /*header end*/
 
+/*footer*/
 .footer {
   background-color: #FFE9D5;
   border-top: 2px dashed #3D2718;
 }
+/*footer*/
