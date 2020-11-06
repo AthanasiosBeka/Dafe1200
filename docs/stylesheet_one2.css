@@ -69,6 +69,13 @@ h2{
   height: auto;
   border: 3px solid #3D2718;
 }
+
+.shops{
+  width: 100%;
+  height: auto;
+  border: 3px solid #3D2718;
+  margin-top: 20px;
+}
 /*pictures*/
 
 /*header*/
@@ -121,11 +128,28 @@ h2{
 
 /*footer*/
 .footer {
-  position: fixed;
-  left: 0;
-  right: 0;
-  width: 100%;
-  background-color: #FFE9D5;
-  border-top: 2px dashed #3D2718;
+   position:fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #FFE9D5;
+   color: #3D2718;
+   text-align: center;
+   border-top: 3px solid #3D2718;
+}
+
+.footer-right{
+  float: right;
+}
+
+.footer a{
+  float: left;
+  color: #3D2718;
+  text-align: center;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 18px;
+  line-height: 25px;
+  font-family: "sofia";
 }
 /*footer*/
