@@ -39,27 +39,8 @@ background-color: #FFE9D5;
   }
 }
 
-
-/*#left {
-  float:left;
-  margin-left: 20px;
-  margin-right:20px;
-  width:1000px;
-  height:auto;
-}
-#right {
-  overflow:hidden;
-  margin:0px;
-  min-height:170px;
-  width: auto;
-  margin-right: 0px;
-
-}
-*/
-
 .shop {
   border: 3px solid #3D2718;
-  width: 50%;
 }
 
 
