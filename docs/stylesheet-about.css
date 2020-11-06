@@ -12,20 +12,14 @@ background-color: #FFE9D5;
 }
 
 .main{
+margin-right: 100px;
 margin-bottom: 100px;
 }
 
-.barista{
-  width: 50%;
+.team{
+  width: 60%;
   height: auto;
-  margin-left: auto;
-  margin-right: auto;
-  border: 4px solid #3D2718;
-}
-
-.team2{
-  width: 20%;
-  height: auto;
+  display: block;
   margin-left: auto;
   margin-right: auto;
   border: 4px solid #3D2718;
@@ -39,7 +33,6 @@ p{
   text-align: center;
   line-height: 25px;
   font-weight: 600px;
-
 }
 
 h1{
