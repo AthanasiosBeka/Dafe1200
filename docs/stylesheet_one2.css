@@ -37,6 +37,9 @@ background-color: #FFE9D5;
   .row{
     display: block;
   }
+  p{
+    font-size: 35;
+  }
 }
 /*columns*/
 
