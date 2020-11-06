@@ -18,11 +18,12 @@ font-weight: normal;
   border-bottom: 1px solid #3D2718;
   padding-bottom: 50px;
   padding: 30px;
+  margin-bottom: 50px;
 }
 
-h1{
-  padding-left: 50px;
-  padding-top: 30px;
+h2{
+  margin-bottom: 50px;
+  margin-top: 50px;
 }
 
 
@@ -80,7 +81,30 @@ h1{
 }
 /*header end*/
 
+/*footer*/
 .footer {
-  background-color: #FFE9D5;
-  border-top: 2px dashed #3D2718;
+   position:fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #FFE9D5;
+   color: #3D2718;
+   text-align: center;
+   border-top: 3px solid #3D2718;
 }
+
+.footer-right{
+  float: left;
+}
+
+.footer a{
+  float: left;
+  color: #3D2718;
+  text-align: center;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 18px;
+  line-height: 25px;
+  font-family: "sofia";
+}
+/*footer*/
