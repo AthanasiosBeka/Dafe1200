@@ -16,7 +16,7 @@ margin-right: 100px;
 }
 
 .team{
-  width: 50%;
+  width: 80%;
   height: auto;
   display: block;
   margin-left: auto;
@@ -26,9 +26,9 @@ margin-right: 100px;
 }
 
 p{
-  margin-left: auto;
+  margin-left: 400px;
   padding-top: 20px;
-  margin-right: auto;
+  margin-right: 400px;
   text-align: center;
   line-height: 25px;
   font-weight: 600px;
