@@ -45,6 +45,9 @@ h1{
   img{
     width: 100%;
   }
+  p{
+    margin-left: 0;
+  }
 }
 
 /*header*/
