@@ -27,9 +27,10 @@ margin-bottom: 100px;
 }
 
 p{
-  margin-left: 400px;
+  margin-left: auto;
+  display: block;
   padding-top: 20px;
-  margin-right: 400px;
+  margin-right: auto;
   text-align: center;
   line-height: 25px;
   font-weight: 600px;
